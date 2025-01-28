@@ -6,6 +6,7 @@ public class Practice {
 	@Test
 	public void gitPract() {
 		System.out.println("");
+		System.out.println("Age");
 	}
 
 }
